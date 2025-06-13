@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 ![](https://github-readme-stats.vercel.app/api?username=iseesaw&count_private=true)
+
+-->
+I am a third-year PhD student at the Department of Electronic Engineering, Tsinghua University.
+I am open to collaborations and discussions across related areas—such as **multi-agent**, **reinforcement learning** ([Awesome RL Reasoning](https://github.com/TsinghuaC3I/Awesome-RL-Reasoning-Recipes) ![](https://img.shields.io/github/stars/TsinghuaC3I/Awesome-RL-Reasoning-Recipes), [PRIME](https://github.com/PRIME-RL/PRIME) ![](https://img.shields.io/github/stars/PRIME-RL/PRIME)), **test-time scaling** ([Compute Optimal TTS](https://github.com/RyanLiu112/compute-optimal-tts) ![](https://img.shields.io/github/stars/RyanLiu112/compute-optimal-tts), [Video T1](https://github.com/liuff19/Video-T1) ![](https://img.shields.io/github/stars/liuff19/Video-T1)), **test-time reinforcement learning** ([TTRL](https://github.com/PRIME-RL/TTRL) ![](https://img.shields.io/github/stars/PRIME-RL/TTRL)), and **multi-agent reinforcement learning**  ([MARTI](https://github.com/TsinghuaC3I/MARTI) ![](https://img.shields.io/github/stars/TsinghuaC3I/MARTI)).
+
+For more information, please visit [my homepage](https://iseesaw.github.io).
 
 ### Hello, World
 ![](https://profile-counter.glitch.me/iseesaw/count.svg)
